@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: poppins;
+    padding: 20px;
+}
+
+.box-model {
+    width: 400px;
+    height: 400px;
+    background: black;
+    color: white;
+    padding: 20px;
+    margin: 30px auto;
+    border: 20px double crimson;
+}
+
+.box-model h1 {
+    color: crimson;
+}
